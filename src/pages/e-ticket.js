@@ -34,7 +34,7 @@ function ETicket({ location }) {
       }
 
       alert(`Maaf, Kode data ${guestCode} tidak ditemukan. Mohon di cek lagi..`);
-      window.location.assign('https://thekusuma.com');
+      window.location.assign('https://5fc517d0bb4d0b10790b782d--cranky-blackwell-33d2d3.netlify.app');
     },
     [data, nameEticket, value],
   );
