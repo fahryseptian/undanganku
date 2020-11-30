@@ -9,7 +9,7 @@ const renderYoutubeVideo = () => {
       <iframe
         title="Pre-Wedding Miftah & Fahry"
         width="100%"
-        height="360px"
+        height="0px"
         src=""
         frameBorder="0"
         allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
