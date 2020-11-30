@@ -5,11 +5,11 @@ import ButtonLive from '../WeddingSection/ButtonLive';
 import { styMargin } from './styles';
 
 function CountContainer() {
-  const { days, hours, minutes, seconds } = useDateCountdown();
-  //const { days, hours, minutes, seconds, timeHasRunOut, isEventOver } = useDateCountdown();
- // const finalText = isEventOver ? 'SUDAH' : 'SEDANG';
+  
+  const { days, hours, minutes, seconds, timeHasRunOut, isEventOver } = useDateCountdown();
+  const finalText = isEventOver ? 'SUDAH' : 'SEDANG';
 
-  /*if (timeHasRunOut)
+  if (timeHasRunOut)
     return (
       <>
         <div className="row">
@@ -19,7 +19,7 @@ function CountContainer() {
         </div>
         <ButtonLive />
       </>
-    );*/
+    );
 
   return (
     <div className="col-md-12" css={styMargin('0 0 16px 0')}>
