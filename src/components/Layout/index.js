@@ -2,7 +2,7 @@ import React, { Fragment } from 'react';
 import { Helmet } from 'react-helmet';
 import { node } from 'prop-types';
 
-import Favicon from '@assets/images/dinda-indra.png';
+
 import '@assets/css/icomoon.css';
 import '@assets/css/bootstrap.css';
 import '@assets/css/style.css';
@@ -16,9 +16,7 @@ function MainLayout({ children }) {
       <Helmet>
         <title>Miftah ❤️ Fahry Wedding</title>
 
-        {/* Favicon */}
-        <link rel="icon" type="image/png" href={Favicon} />
-
+        
         {/* font and SEO tags */}
         <meta property="og:title" content="The Wedding of Miftah & Fahry" />
         <meta property="og:image" content={IMAGE_URL} />
