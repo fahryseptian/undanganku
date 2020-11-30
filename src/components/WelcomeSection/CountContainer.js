@@ -16,10 +16,10 @@ function CountContainer() {
           <div className="col-md-12" style={{ fontSize: '20px' }}>
             {`ACARA ${finalText} BERLANGSUNG!`}
           </div>
-        </div>*/
+        </div>
         <ButtonLive />
       </>
-    );
+    );*/
 
   return (
     <div className="col-md-12" css={styMargin('0 0 16px 0')}>
