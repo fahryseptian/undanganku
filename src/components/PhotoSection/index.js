@@ -4,7 +4,7 @@ import 'react-image-gallery/styles/css/image-gallery.css';
 import { photos } from './photo-data';
 
 function PhotoSection() {
-  const renderYoutubeVideo = () => {
+ /* const renderYoutubeVideo = () => {
     return (
       <iframe
         title="Pre-Wedding Dinda & Indra"
@@ -16,7 +16,7 @@ function PhotoSection() {
         allowFullScreen
       ></iframe>
     );
-  };
+  };*/
 
   return (
     <div id="fh5co-testimonial" className="fh5co-section-gray">
@@ -24,11 +24,11 @@ function PhotoSection() {
         <div className="row">
           <div className="row">
             <div className="col-md-8 col-md-offset-2 text-center fh5co-heading">
-              <h2 className="main-font">#TheKusuma</h2>
+              <h2 className="main-font">#TheWedding</h2>
               <p className="sub-title">
-                "And of His signs is that He created for you from yourselves mates that you may find tranquility in
-                them; and He placed between you affection and mercy. Indeed in that are signs for a people who give
-                thought" <br />
+                "Dan di antara tanda-tanda kekuasaan-Nya ialah Dia menciptakan untukmu isteri-isteri dari jenismu sendiri,
+    supaya kamu cenderung dan merasa tenteram kepadanya, dan dijadikan-Nya diantaramu rasa kasih dan sayang. Sesungguhnya pada 
+    yang demikian itu benar-benar terdapat tanda-tanda bagi kaum yang berfikir." <br />
                 (Ar-Rum 30:21).
               </p>
             </div>
