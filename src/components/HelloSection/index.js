@@ -56,8 +56,7 @@ function HelloSection({ isInvitation }) {
           </div>
         </div>
       </div>
-      {!isInvitation ? (
-      ) : null}
+      
     </Fragment>
   );
 }
