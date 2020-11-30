@@ -13,7 +13,7 @@ function GenerateLink() {
 
   const { data, loading } = useGuestData();
 
-  const URL = `https://5fc561b80da6790f7c3d0c4d--cranky-blackwell-33d2d3.netlify.app}`;
+  const URL = `https://cranky-blackwell-33d2d3.netlify.app}`;
 
   const handleChange = (e) => {
     setType(parseInt(e.target.value, 10));
