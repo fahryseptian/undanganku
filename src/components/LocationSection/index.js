@@ -29,7 +29,7 @@ function LocationSection() {
           <div className="row">
             <div className="col-md-10 col-md-offset-1">
               <iframe
-                src="<iframe src="https://www.google.com/maps/embed?pb=!4v1606731996063!6m8!1m7!1sjXFFReKOiEKXNP0kbUv3XQ!2m2!1d2.089570990229686!2d99.98607633834031!3f0!4f0!5f0.7820865974627469"
+                src="<iframe "https://www.google.com/maps/embed?pb=!4v1606731996063!6m8!1m7!1sjXFFReKOiEKXNP0kbUv3XQ!2m2!1d2.089570990229686!2d99.98607633834031!3f0!4f0!5f0.7820865974627469"
                 width="100%"
                 height="450"
                 frameBorder="0"
