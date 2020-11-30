@@ -5,7 +5,8 @@ import ButtonLive from '../WeddingSection/ButtonLive';
 import { styMargin } from './styles';
 
 function CountContainer() {
-  const { days, hours, minutes, seconds, timeHasRunOut, isEventOver } = useDateCountdown();
+  const { days, hours, minutes, seconds } = useDateCountdown();
+  //const { days, hours, minutes, seconds, timeHasRunOut, isEventOver } = useDateCountdown();
   const finalText = isEventOver ? 'SUDAH' : 'SEDANG';
 
   if (timeHasRunOut)
