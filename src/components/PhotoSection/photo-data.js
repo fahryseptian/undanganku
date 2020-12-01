@@ -32,3 +32,4 @@ export const photos = [
     thumbnail: GalleryT3,
   },
   
+];
