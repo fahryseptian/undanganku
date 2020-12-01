@@ -15,7 +15,7 @@ export const photos = [
   },
   {
     original: Gallery3,
-    thumbnail: Gallery2,
+    thumbnail: Gallery3,
   },
   
 ];
