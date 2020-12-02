@@ -44,7 +44,7 @@ const renderYoutubeVideo = () => {
         </div>
       </div>
     </div>
-  );
+  )
 }
 
 export default PhotoSection;
