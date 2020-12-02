@@ -52,4 +52,4 @@ export const photos = [
     thumbnail: Gallery10,
   },
   
-];
+]
