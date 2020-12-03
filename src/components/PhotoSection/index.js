@@ -24,7 +24,7 @@ const renderYoutubeVideo = () => {
         <div className="row">
           <div className="row">
             <div className="col-md-8 col-md-offset-2 text-center fh5co-heading">
-              <h2 className="main-font">#HartaTahtaMiftah</h2>
+              <h2 className="main-font">#TheWedding</h2>
               <p className="sub-title">
                 "Dan di antara tanda-tanda kekuasaan-Nya ialah Dia menciptakan untukmu isteri-isteri dari jenismu sendiri,
     supaya kamu cenderung dan merasa tenteram kepadanya, dan dijadikan-Nya diantaramu rasa kasih dan sayang. Sesungguhnya pada 
