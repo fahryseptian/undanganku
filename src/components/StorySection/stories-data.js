@@ -29,7 +29,7 @@ export const stories = [
     title: 'Medan & Aek Nabara',
     date: '2019 - 2020',
     description:
-      'Tidak selalu bersama, perjuangan dimulai ketika Fahry memutuskan untuk bekerja di Medan sebagai seorang Network Operation Center di PT Netciti Persada. Miftah juga memutuskan untuk Stay dahulu di Kampung halaman untuk menemani keluarga di rumah. ',
+      'Tidak selalu bersama, perjuangan dimulai ketika Fahry memutuskan untuk bekerja di Medan sebagai seorang Field Service Engginering di PT Netciti Persada. Miftah juga memutuskan untuk Stay dahulu di Kampung halaman untuk menemani keluarga di rumah. ',
     image:ldr,
   },
   
