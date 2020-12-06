@@ -6,7 +6,7 @@ import lamaran from '@assets/images/lamaran.jpg';
 export const stories = [
   {
     title: 'Jumpa Pertama ',
-    date: '2010 - 2013',
+    date: '2007 - 2010',
     description:
       'Pertama kali kami dipertemukan di sebuah Pondok Pesantren Modren Daar Al Uluum Kisaran. Sebagai seorang Santri dan Santriwati, kala itu Fahry sering perhatian ke Miftah sebagai tanda kagum :D.',
     image: '',
