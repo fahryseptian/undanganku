@@ -32,7 +32,7 @@ function HelloSection({ isInvitation }) {
               <div className="desc-groom">
                 <h3 className="main-font">Miftahul Khairat Ritonga, S.Pd.</h3>
                 <p className="parent-name parent-name__top">
-                  Putri Bapak (Alm.) Haris Fadillah Ritonga <br />& Ibu Roslaini pulungan
+                  Putri (Alm.) Bapak Haris Fadillah Ritonga <br />& Ibu Roslaini pulungan
                 </p>
               </div>
             </div>
