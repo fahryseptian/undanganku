@@ -12,7 +12,7 @@ function GenerateLink() {
   const [isInvitation, setIsInvitation] = useState(false);
 
   const { data, loading } = useGuestData();
-const URL = `https://miftahfahry.medanrias.com?to=${encodeURIComponent(name)}`;
+const URL = `https://miftah-fahry.netlify.app?to=${encodeURIComponent(name)}`;
  
 
   const handleChange = (e) => {
