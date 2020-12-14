@@ -12,7 +12,7 @@ function GenerateLink() {
   const [isInvitation, setIsInvitation] = useState(false);
 
   const { data, loading } = useGuestData();
-const URL = `http://miftahfahry.medanrias.com?to=${encodeURIComponent(name)}`;
+const URL = `https://miftahfahry.medanrias.com?to=${encodeURIComponent(name)}`;
  
 
   const handleChange = (e) => {
@@ -113,7 +113,7 @@ const URL = `http://miftahfahry.medanrias.com?to=${encodeURIComponent(name)}`;
               <tbody>
                 {data.map((d, index) => {
                   const offlineInvitation = isInvitation ? `&type=invitation&code=${d.code}` : '';
-                  const mapURL = `https://5fc517d0bb4d0b10790b782d--cranky-blackwell-33d2d3.netlify.app?to=${encodeURIComponent(d.name)}${offlineInvitation}`;
+                  const mapURL = `https://miftahfahry.medanrias.com?to=${encodeURIComponent(d.name)}${offlineInvitation}`;
                   return (
                     <tr>
                       <td>{index + 1}</td>
