@@ -1,5 +1,6 @@
 import Dinda from '@assets/images/w-dinda.jpg';
 import Pu from '@assets/images/pu.jpg';
+import Alim from '@assets/images/alim.jpg';
 
 export const wishlist = [
   {
@@ -20,7 +21,7 @@ export const wishlist = [
     description: `برك الله لكما و برك علينا وجمع بين كما باالخير
 Tetap jadikan Teladan Rosululullah dalam meniti kehidupan berkeluarga...jangan hilangkan adab kepesantrenan mu....
 Sekali lagi selamat buat Fahry dan Miftah,sekarang kawan seletingan ku ada 2 orang yg berjodoh,ada Rio dan Siska Julia dan Sekarang Kalian, Fahry dan Miftah 🙏`,
-    image: ,
+    image: Alim ,
   },
   
 ];
