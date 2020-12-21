@@ -14,5 +14,13 @@ export const wishlist = [
     description: `Selamat lah yaa cekk ,semoga tersemogakan semua lah yaa cekkk 😁😊 aamin`,
     image: Pu,
   },
+  {
+    name: 'Alim Subhan Nasution',
+    infoName: 'Temen Fahry & Miftah',
+    description: `برك الله لكما و برك علينا وجمع بين كما باالخير
+Tetap jadikan Teladan Rosululullah dalam meniti kehidupan berkeluarga...jangan hilangkan adab kepesantrenan mu....
+Sekali lagi selamat buat Fahry dan Miftah,sekarang kawan seletingan ku ada 2 orang yg berjodoh,ada Rio dan Siska Julia dan Sekarang Kalian, Fahry dan Miftah 🙏`,
+    image: ,
+  },
   
 ];
